@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Android✨
 
 <!-- Don't Run Contribution Graph(Generate Snake) Action on your default Branch-->
-![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/fykaa/fykaa/blob/25348e7abdbc8075e79b0d74af5f4a1207b60fe4/github-contribution-grid-snake.svg)
+![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://raw.githubusercontent.com/fykaa/fykaa/main/contributiongrid.svg)
 <!-- Don't Run Contribution Graph(Generate Snake) Action on your default Branch -->
 <br/>
